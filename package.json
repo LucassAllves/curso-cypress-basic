@@ -1,0 +1,20 @@
+{
+  "name": "basiccypress_tat",
+  "version": "1.0.0",
+  "description": "Curso basic cypress Talking About Testing ",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "test",
+    "automation",
+    "e2e"
+  ],
+  "author": "Lucas Alves",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.3.1"
+  }
+}
