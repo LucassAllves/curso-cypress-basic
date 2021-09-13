@@ -1,5 +1,8 @@
 # curso-cypress-basic
 
+[![coverage report](https://gitlab.com/lucasgomesalves2015/curso-cypress-basic/badges/main/coverage.svg)](https://gitlab.com/lucasgomesalves2015/curso-cypress-basic/-/commits/main)
+
+
 Curso de automação de teste com Cypress da escola Talking About Testing.
 
 					Curso:  TALKING ABOUT TESTING
@@ -68,5 +71,10 @@ Agora vamos subir para o repositório que criamos: git remote add origin https:/
 
 Vendo se está na branch que criamos: git remote update
 
-Pegando o README.md que criamos da branch: git rebase origin/main		
+Pegando o README.md que criamos da branch: git rebase origin/main	
+
+Rodando do testes em modo headless para gerar vídeos e screenshots: npm test
+
+configurando integração continua: touch .gitlab-ci.yml
+Configuramos o nosso yml CI
 	
