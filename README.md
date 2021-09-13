@@ -77,4 +77,5 @@ Rodando do testes em modo headless para gerar vídeos e screenshots: npm test
 
 configurando integração continua: touch .gitlab-ci.yml
 Configuramos o nosso yml CI
+E ajustando para apresentar se passou ou falhou no README.md :)
 	
