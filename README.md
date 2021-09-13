@@ -1,6 +1,6 @@
 # curso-cypress-basic
 
-[![coverage report](https://gitlab.com/lucasgomesalves2015/curso-cypress-basic/badges/main/coverage.svg)](https://gitlab.com/lucasgomesalves2015/curso-cypress-basic/-/commits/main)
+[![pipeline status](https://gitlab.com/lucasgomesalves2015/curso-cypress-basic/badges/main/pipeline.svg)](https://gitlab.com/lucasgomesalves2015/curso-cypress-basic/-/commits/main)
 
 
 Curso de automação de teste com Cypress da escola Talking About Testing.
